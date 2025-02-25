@@ -1,0 +1,67 @@
+
+*** These modified files were found in JOE when it aborted on Fri Feb 21 17:21:58 2025
+*** JOE was aborted by UNIX signal 1
+
+*** File 'index.html'
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dad Jokes</title>
+    <style>
+</head>
+</html>
+*** File '(Unnamed)'
+script.js
+/home/dudu01/git/tipcalc/Tip-calculator/.git/COMMIT_EDITMSG
+/home/dudu01/git/tipcalc/Tip-calculator/.git/COMMIT_EDITMSG
+index.html
+README.md
+README.md
+/home/dudu01/git/tipcalc/Tip-calculator/.git/COMMIT_EDITMSG
+/home/dudu01/git/tipcalc/Tip-calculator/.git/COMMIT_EDITMSG
+/home/dudu01/git/dadjokes/dad-jokes/.git/COMMIT_EDITMSG
+/home/dudu01/git/dadjokes/dad-jokes/.git/COMMIT_EDITMSG
+index.html
+index.html
+
+*** File '* Startup Log *'
+Processing '/etc/joe/joerc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/joerc
+
+*** These modified files were found in JOE when it aborted on Tue Feb 25 16:51:38 2025
+*** JOE was aborted by UNIX signal 1
+
+*** File 'script.js'
+const btnEl = document.getElementById("btn");
+const jokeEl = document.getElementById("joke");
+
+const apiKey = "https://api.api-ninjas.com/v1/dadjokes?limit=1";
+
+async function getJoke() {
+    try {
+        jokeEl.innerText = "Updating...";
+        btnEl.disabled = true;
+    }
+}
+*** File '(Unnamed)'
+/home/dudu01/git/tipcalc/Tip-calculator/.git/COMMIT_EDITMSG
+/home/dudu01/git/dadjokes/dad-jokes/.git/COMMIT_EDITMSG
+/home/dudu01/git/dadjokes/dad-jokes/.git/COMMIT_EDITMSG
+index.html
+index.html
+index.html
+index.html
+style.css
+style.css
+style.css
+script.js
+
+*** File '* Startup Log *'
+Processing '/etc/joe/joerc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/joerc
