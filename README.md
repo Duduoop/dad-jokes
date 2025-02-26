@@ -1,2 +1,3 @@
 # dad-jokes
 This is a dad joke...
+<a href="http://htmlpreview.github.io/?https://github.com/Duduoop/dad-jokes/blob/main/index.html">here is a example, have fun !</a>
